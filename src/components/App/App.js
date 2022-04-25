@@ -6,7 +6,6 @@ import {Component} from "react";
 import BooksList from "../Books/BookList/bookList";
 import ELibraryRepository from "../../repository/eLibraryRepository";
 import BookAdd from "../Books/BookAdd/bookAdd";
-import data from "bootstrap/js/src/dom/data";
 import BookEdit from "../Books/BookEdit/bookEdit";
 
 class App extends Component {
